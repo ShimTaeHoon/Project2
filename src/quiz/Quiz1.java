@@ -7,7 +7,7 @@ public class Quiz1 {
 		// int형 변수 x 선언
 		int x;
 		// x에 1을 저장
-		x = 1;
+		x = 1; 
 		// x의 값을 5로 변경
 		x = 5;
 		// x를 출력
